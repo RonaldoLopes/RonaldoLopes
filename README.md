@@ -8,6 +8,6 @@ Trabalho com diversas tecnologias desde 2004 possuindo maior conhecimento em tec
 ## Atual
 No momento estou me especializando nas tecnologias Python e Django para programação back-end e futuramente FullStack.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=RonaldoLopes&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoLopes&layout=compact)](https://github.com/RonaldoLopes/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RonaldoLopes)](https://github.com/RonaldoLopes/github-readme-stats)
