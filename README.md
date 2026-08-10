@@ -119,9 +119,9 @@ Event-driven data ingestion and processing pipeline.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-- 💻 GitHub: [Your GitHub URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/ronaldolopesalves/?locale=en-US
+- 📧 Email: ronaldorclopes@gmail.com
+- 💻 GitHub: https://github.com/RonaldoLopes/RonaldoLopes
 
 ---
 
