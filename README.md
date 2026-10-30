@@ -14,13 +14,14 @@ Python, Azure, and financial data processing.
 ## 🚀 About Me
 
 - 💻 Data Engineer focused on scalable data solutions
-- ⚡ 4+ years of experience in Data Engineering
+- ⚡ 5+ years of experience in Data Engineering
 - ☁️ Experience with Azure and cloud data platforms
 - 🔥 Strong experience with Databricks, Apache Spark and PySpark
 - 🐍 Python for data processing, automation and engineering
 - 📊 Experience with financial data and large-scale data processing
 - 🎓 Degree in Computer Engineering
 - 🎓 Postgraduate degree in Data Engineering
+- 🎓 DP-900 Microsoft Certification
 - 🌎 Open to international opportunities
 
 ---
