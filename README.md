@@ -2,7 +2,7 @@
 
 ### Data Engineer | Databricks | PySpark | Python | Azure
 
-Data Engineer with 4+ years of experience building scalable data pipelines,
+Data Engineer with 45+ years of experience building scalable data pipelines,
 data processing platforms, and cloud-based data solutions.
 
 My main focus is on data engineering, distributed data processing, cloud data
@@ -36,6 +36,7 @@ Python, Azure, and financial data processing.
 - ETL / ELT
 - Distributed Data Processing
 - Data Platforms
+- GenAI
 
 ### Programming
 - Python
