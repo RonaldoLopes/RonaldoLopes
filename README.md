@@ -1,8 +1,8 @@
 # Ronaldo Lopes
 
-### Data Engineer | Databricks | PySpark | Python | Azure
+### Data Engineer | Databricks | PySpark | Python | Azure | GenAI
 
-Data Engineer with 45+ years of experience building scalable data pipelines,
+Data Engineer with 5+ years of experience building scalable data pipelines,
 data processing platforms, and cloud-based data solutions.
 
 My main focus is on data engineering, distributed data processing, cloud data
@@ -41,6 +41,7 @@ Python, Azure, and financial data processing.
 ### Programming
 - Python
 - SQL
+- PySpark
 
 ### Cloud
 - Microsoft Azure
@@ -54,6 +55,7 @@ Python, Azure, and financial data processing.
 - Git
 - GitHub
 - CI/CD
+- Terraform as IaC
 - Django
 
 ---
@@ -105,7 +107,7 @@ Event-driven data ingestion and processing pipeline.
 ---
 
 ## 🎯 What I’m Currently Focused On
-
+- GenAI
 - Data Engineering
 - Databricks
 - Apache Spark
